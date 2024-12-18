@@ -1,0 +1,1 @@
+{"name":"Local: comding","url":"/media/rishu/New Volume/contests/comding.py","tests":[{"id":1725246252665,"input":"5\n1\n1\n3\n2 2 3\n4\n2 1 1 2\n4\n4 4 4 4\n7\n1 2 3 1 1 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/rishu/New Volume/contests/comding.py","group":"local","local":true}
