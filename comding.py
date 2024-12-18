@@ -324,23 +324,8 @@ def solvution():
     # Shuru
     
     n = in1()
-    a = lster()
-    
-    s = set(a)
-    b = []
-    
-    seen = set()
-    
-    for i in a:
-        if i not in seen:
-            b.append(i)
-            seen.add(i)
-    
-    for i in range(1, n+1):
-        if i not in s:
-            b.append(i)
-    
-    print(*b)
+    print(n)
+    log(n)
     
     
     # Khatam

@@ -457,11 +457,13 @@ bool compa(const pair<int, int> &a, const pair<int, int> &b)
 void solvution(){
     int n;
     cin>>n;
+
+    cout<<n;
     
-    unordered_map<pair<int,int>, int> dp;
-    vector<string> s(2);
+    // unordered_map<pair<int,int>, int> dp;
+    // vector<string> s(2);
     
-    cin>>s[0]; cin>>s[1];
+    // cin>>s[0]; cin>>s[1];
 
 
 
